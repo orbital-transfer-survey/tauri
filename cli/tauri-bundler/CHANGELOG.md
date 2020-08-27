@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.9.3]
+
+-   add a newline after Categories in deb .desktop file generation to fix issues #899 and #925.
+    -   [37bcf5f](https://www.github.com/tauri-apps/tauri/commit/37bcf5fea154bdefbca2692b69aafaabba8c23e2) fix(bundler) missing newline in deb desktop file generation (fix: [#899](https://www.github.com/tauri-apps/tauri/pull/899), [#925](https://www.github.com/tauri-apps/tauri/pull/925)) ([#998](https://www.github.com/tauri-apps/tauri/pull/998)) on 2020-08-27
+
 ## [0.9.2]
 
 -   Bump all deps as noted in #975, #976, #977, #978, and #979.
